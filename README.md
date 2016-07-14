@@ -13,6 +13,10 @@ Livros disponíveis em https://github.com/frontendbr/doe-um-livro/issues
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome do livro.
 
 Exemplo: `[São Paulo] Livro de JavaScript` 
+
+Caso, seja um ebook, use:
+
+Exemplo: `[Ebook] Livro de JavaScript` 
  
 ________
 #### Repositórios da Front-End Brasil
