@@ -24,7 +24,7 @@ Adicione também uma pequena descrição e/ou review do livro, mostrando ao futu
 
 **Não promova a pirataria.**
 
-Apenas eBooks GRATUITOS e disponíveis na web para esse fim podem ser compartilhados.
+Apenas eBooks **GRATUITOS** e disponíveis na web para esse fim podem ser compartilhados.
 
 ---
 
