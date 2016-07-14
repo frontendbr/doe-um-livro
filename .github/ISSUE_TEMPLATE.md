@@ -6,6 +6,13 @@ Caso, seja um **e-Book**, use:
 
 Exemplo: `[e-book] Livro de JavaScript`
 
+No corpo desta _issue_:
+
+- Procure descrever o livro.
+- Se já leu, critique um pouco o conteúdo do mesmo.
+- E não esqueça de indicar como gostaria de realizar o **envio**.
+- No caso de **e-Book**, o _link_ é bastante apreciável.
+
 #### Importante
 
 **Não promova a pirataria.**
