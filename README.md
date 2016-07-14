@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
+  <img src="src/logo.jpg" alt="Front-End Brasil - Doe um livro" width="230" />
 </p>
 
 # Doe um Livro!
@@ -12,18 +12,21 @@ Livros disponíveis em https://github.com/frontendbr/doe-um-livro/issues
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome do livro.
 
-Exemplo: `[São Paulo] Livro de JavaScript` 
+Exemplo: `[São Paulo] Livro de JavaScript`
 
-Caso, seja um eBook, use:
+Caso, seja um **e-Book**, use:
 
-Exemplo: `[eBook] Livro de JavaScript`
+Exemplo: `[e-book] Livro de JavaScript`
 
 #### Importante
 
-Apenas eBooks GRATUITOS e disponíveis na web para esse fim podem ser compartilhados. 
- 
-________
-#### Repositórios da Front-End Brasil
+**Não promova a pirataria.**
+
+Apenas eBooks GRATUITOS e disponíveis na web para esse fim podem ser compartilhados.
+
+---
+
+#### Conheça também!
 
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
