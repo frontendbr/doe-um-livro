@@ -16,7 +16,11 @@ Exemplo: `[São Paulo] Livro de JavaScript`
 
 Caso, seja um eBook, use:
 
-Exemplo: `[eBook] Livro de JavaScript` 
+Exemplo: `[eBook] Livro de JavaScript`
+
+#### Importante
+
+Apenas eBooks GRATUITOS e disponíveis na web para esse fim podem ser compartilhados. 
  
 ________
 #### Repositórios da Front-End Brasil
