@@ -4,7 +4,7 @@
 
 # Doe um Livro
 
-Espaço para a doação de livros via _issues_ do Github.
+Espaço para a doação de livros e compartilhamento de eBooks via _issues_ do Github.
 
 Livros disponíveis em https://github.com/frontendbr/doe-um-livro/issues
 
@@ -14,9 +14,9 @@ Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre co
 
 Exemplo: `[São Paulo] Livro de JavaScript` 
 
-Caso, seja um ebook, use:
+Caso, seja um eBook, use:
 
-Exemplo: `[Ebook] Livro de JavaScript` 
+Exemplo: `[eBook] Livro de JavaScript` 
  
 ________
 #### Repositórios da Front-End Brasil
