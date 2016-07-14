@@ -18,6 +18,8 @@ Caso, seja um **e-Book**, use:
 
 Exemplo: `[e-book] Livro de JavaScript`
 
+Adicione também uma pequena descrição e/ou review do livro, mostrando ao futuro leitor porque é interessante ler tal livro, o que você aprendeu com seu conteúdo, etc.
+
 #### Importante
 
 **Não promova a pirataria.**
