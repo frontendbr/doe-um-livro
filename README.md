@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/logo.jpg" alt="Front-End Brasil - Doe um livro" width="230" />
+  <img src="src/logo.jpg" alt="Front-End Brasil - Doe um livro" width="400" />
 </p>
 
 # Doe um Livro!
