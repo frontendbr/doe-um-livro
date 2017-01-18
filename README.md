@@ -26,8 +26,12 @@ Adicione também uma pequena descrição e/ou review do livro, mostrando ao futu
 
 Apenas eBooks **GRATUITOS** e disponíveis na web para esse fim podem ser compartilhados.
 
-________
-#### Repositórios da Front-End Brasil
+ 
+## Licença
+
+[MIT](LICENSE.md) &copy; FrontendBR
+
+## Repositórios da Front-End Brasil
 
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
