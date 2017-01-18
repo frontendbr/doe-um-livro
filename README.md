@@ -26,14 +26,14 @@ Adicione também uma pequena descrição e/ou review do livro, mostrando ao futu
 
 Apenas eBooks **GRATUITOS** e disponíveis na web para esse fim podem ser compartilhados.
 
----
-
-#### Conheça também!
+________
+#### Repositórios da Front-End Brasil
 
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
 - [Vagas](https://github.com/frontendbr/vagas)
-- [Doe um livro!](https://github.com/frontendbr/doe-um-livro)
+- [Doe um livro](https://github.com/frontendbr/doe-um-livro)
 - [Poste mais!](https://github.com/frontendbr/poste-mais)
 - [Open Source](https://github.com/frontendbr/open-source)
+- [Front-End Week](https://github.com/frontendbr/frontendweek)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
